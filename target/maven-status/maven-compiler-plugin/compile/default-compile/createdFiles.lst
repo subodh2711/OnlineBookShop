@@ -1,0 +1,8 @@
+com/hms/response/MediaCoverage.class
+com/hms/dao/BookDao.class
+com/hms/OnlineBookShopApplication.class
+com/hms/model/Book.class
+com/hms/repository/BookRepository.class
+com/hms/controller/OnlineBookShopController.class
+com/hms/dao/impl/BookDaoImpl.class
+com/hms/dao/impl/BookDaoImpl$1.class
