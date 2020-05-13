@@ -1,7 +1,7 @@
-/home/subodh/Desktop/99Project/onlineBookshop/OnlineBookShop/src/main/java/com/hms/controller/OnlineBookShopController.java
-/home/subodh/Desktop/99Project/onlineBookshop/OnlineBookShop/src/main/java/com/hms/dao/BookDao.java
-/home/subodh/Desktop/99Project/onlineBookshop/OnlineBookShop/src/main/java/com/hms/dao/impl/BookDaoImpl.java
-/home/subodh/Desktop/99Project/onlineBookshop/OnlineBookShop/src/main/java/com/hms/response/MediaCoverage.java
-/home/subodh/Desktop/99Project/onlineBookshop/OnlineBookShop/src/main/java/com/hms/model/Book.java
-/home/subodh/Desktop/99Project/onlineBookshop/OnlineBookShop/src/main/java/com/hms/repository/BookRepository.java
-/home/subodh/Desktop/99Project/onlineBookshop/OnlineBookShop/src/main/java/com/hms/OnlineBookShopApplication.java
+/home/subodh/Desktop/99Project/onlineBookShop/onlinebookshop/src/main/java/com/hms/model/Book.java
+/home/subodh/Desktop/99Project/onlineBookShop/onlinebookshop/src/main/java/com/hms/response/MediaCoverage.java
+/home/subodh/Desktop/99Project/onlineBookShop/onlinebookshop/src/main/java/com/hms/dao/BookDao.java
+/home/subodh/Desktop/99Project/onlineBookShop/onlinebookshop/src/main/java/com/hms/controller/OnlineBookShopController.java
+/home/subodh/Desktop/99Project/onlineBookShop/onlinebookshop/src/main/java/com/hms/OnlineBookShopApplication.java
+/home/subodh/Desktop/99Project/onlineBookShop/onlinebookshop/src/main/java/com/hms/dao/impl/BookDaoImpl.java
+/home/subodh/Desktop/99Project/onlineBookShop/onlinebookshop/src/main/java/com/hms/repository/BookRepository.java

@@ -11,7 +11,7 @@
 
 	<name>onlineBookshop-app</name>
 	<url>http://maven.apache.org</url>
-	<description>Demo project for Spring Boot</description>
+	<description>Online Book Shop</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
